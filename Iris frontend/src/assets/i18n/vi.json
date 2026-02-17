@@ -1,0 +1,22 @@
+{
+  "common": {
+    "search": "Tìm kiếm...", "filter": "Lọc", "export": "Xuất", "create": "Tạo mới", "save": "Lưu", "cancel": "Hủy", "edit": "Sửa", "delete": "Xóa", "view": "Xem", "close": "Đóng", "confirm": "Xác nhận", "back": "Quay lại", "next": "Tiếp theo", "submit": "Gửi", "approve": "Phê duyệt", "reject": "Từ chối", "loading": "Đang tải...", "noData": "Không có dữ liệu", "records": "bản ghi", "page": "Trang", "of": "/", "actions": "Thao tác", "status": "Trạng thái", "priority": "Ưu tiên", "type": "Loại", "date": "Ngày", "description": "Mô tả", "owner": "Người phụ trách", "amount": "Số tiền", "score": "Điểm", "all": "Tất cả", "yes": "Có", "no": "Không", "dashboard": "Bảng điều khiển", "settings": "Cài đặt", "profile": "Hồ sơ", "logout": "Đăng xuất", "welcome": "Xin chào"
+  },
+  "risk": {
+    "title": "Quản lý Rủi ro", "register": "Sổ đăng ký rủi ro", "assessment": "Đánh giá rủi ro", "treatment": "Kế hoạch xử lý", "controls": "Kiểm soát", "kris": "Chỉ số rủi ro chính", "heatmap": "Bản đồ nhiệt", "inherent": "Rủi ro vốn có", "residual": "Rủi ro còn lại", "likelihood": "Khả năng", "impact": "Tác động", "velocity": "Tốc độ rủi ro", "appetite": "Ngưỡng chấp nhận", "category": "Danh mục", "department": "Phòng ban", "framework": "Khung đánh giá"
+  },
+  "fraud": {
+    "title": "Phát hiện Gian lận", "alerts": "Cảnh báo gian lận", "transactions": "Giao dịch", "rules": "Quy tắc", "blacklist": "Danh sách đen", "watchlist": "Danh sách theo dõi", "cases": "Vụ việc", "score": "Điểm gian lận", "prevented": "Số tiền ngăn chặn", "falsePositive": "Tỷ lệ dương tính giả"
+  },
+  "aml": {
+    "title": "Chống rửa tiền", "screening": "Sàng lọc", "customers": "Rủi ro khách hàng", "sanctions": "Trừng phạt", "sar": "Báo cáo SAR", "alerts": "Cảnh báo AML", "pep": "Nhân vật chính trị", "kyc": "Xác minh KYC"
+  },
+  "txn": { "title": "Giám sát Giao dịch", "liveFeed": "Luồng trực tiếp", "scenarios": "Kịch bản", "behavioral": "Hành vi", "network": "Mạng lưới" },
+  "case": { "title": "Quản lý Vụ việc", "workspace": "Không gian làm việc", "tasks": "Nhiệm vụ", "evidence": "Bằng chứng", "investigation": "Điều tra", "communications": "Liên lạc", "financial": "Tài chính", "resolution": "Giải quyết" },
+  "analytics": { "title": "Phân tích Dữ liệu", "dashboardBuilder": "Tạo bảng điều khiển", "reports": "Báo cáo", "visualization": "Trực quan hóa", "scheduled": "Lập lịch báo cáo" },
+  "alert": { "title": "Quản lý Cảnh báo", "queue": "Hàng đợi", "config": "Cấu hình", "analytics": "Phân tích", "investigation": "Điều tra" },
+  "model": { "title": "Mô hình AI/ML", "catalog": "Danh mục", "monitoring": "Giám sát", "deployment": "Triển khai", "explainability": "Giải thích" },
+  "governance": { "title": "Quản trị Dữ liệu", "catalog": "Danh mục dữ liệu", "lineage": "Dòng chảy dữ liệu", "quality": "Chất lượng", "access": "Kiểm soát truy cập", "classification": "Phân loại", "retention": "Lưu trữ" },
+  "compliance": { "title": "Tuân thủ & Kiểm toán", "policies": "Chính sách", "controls": "Kiểm soát", "audits": "Kiểm toán", "training": "Đào tạo", "violations": "Vi phạm", "regulatory": "Báo cáo pháp quy" },
+  "admin": { "title": "Quản trị", "users": "Quản lý người dùng", "roles": "Vai trò & Quyền", "system": "Sức khỏe hệ thống", "auditLog": "Nhật ký kiểm toán", "organization": "Tổ chức", "workflow": "Quy trình", "reference": "Dữ liệu tham chiếu", "notifications": "Cảnh báo", "backup": "Sao lưu" }
+}

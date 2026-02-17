@@ -1,0 +1,22 @@
+{
+  "common": {
+    "search": "Search...", "filter": "Filter", "export": "Export", "create": "Create New", "save": "Save", "cancel": "Cancel", "edit": "Edit", "delete": "Delete", "view": "View", "close": "Close", "confirm": "Confirm", "back": "Back", "next": "Next", "submit": "Submit", "approve": "Approve", "reject": "Reject", "loading": "Loading...", "noData": "No data found", "records": "records", "page": "Page", "of": "of", "actions": "Actions", "status": "Status", "priority": "Priority", "type": "Type", "date": "Date", "description": "Description", "owner": "Owner", "amount": "Amount", "score": "Score", "all": "All", "yes": "Yes", "no": "No", "dashboard": "Dashboard", "settings": "Settings", "profile": "My Profile", "logout": "Log Out", "welcome": "Welcome"
+  },
+  "risk": {
+    "title": "Risk Management", "register": "Risk Register", "assessment": "Risk Assessment", "treatment": "Treatment Plan", "controls": "Controls", "kris": "Key Risk Indicators", "heatmap": "Risk Heat Map", "inherent": "Inherent Risk", "residual": "Residual Risk", "likelihood": "Likelihood", "impact": "Impact", "velocity": "Risk Velocity", "appetite": "Risk Appetite", "category": "Category", "department": "Department", "framework": "Framework"
+  },
+  "fraud": {
+    "title": "Fraud Detection", "alerts": "Fraud Alerts", "transactions": "Transactions", "rules": "Fraud Rules", "blacklist": "Blacklist", "watchlist": "Watchlist", "cases": "Cases", "score": "Fraud Score", "prevented": "Amount Prevented", "falsePositive": "False Positive Rate"
+  },
+  "aml": {
+    "title": "AML & Sanctions", "screening": "Screening", "customers": "Customer Risk", "sanctions": "Sanctions", "sar": "SAR Filing", "alerts": "AML Alerts", "pep": "PEP Status", "kyc": "KYC Status"
+  },
+  "txn": { "title": "Transaction Monitoring", "liveFeed": "Live Feed", "scenarios": "Scenarios", "behavioral": "Behavioral", "network": "Network Graph" },
+  "case": { "title": "Case Management", "workspace": "Case Workspace", "tasks": "Tasks", "evidence": "Evidence", "investigation": "Investigation", "communications": "Communications", "financial": "Financial", "resolution": "Resolution" },
+  "analytics": { "title": "Data Analytics", "dashboardBuilder": "Dashboard Builder", "reports": "Reports", "visualization": "Visualization", "scheduled": "Scheduled Reports" },
+  "alert": { "title": "Alert Management", "queue": "Alert Queue", "config": "Configuration", "analytics": "Analytics", "investigation": "Investigation" },
+  "model": { "title": "AI/ML Models", "catalog": "Model Catalog", "monitoring": "Monitoring", "deployment": "Deployment", "explainability": "Explainability" },
+  "governance": { "title": "Data Governance", "catalog": "Data Catalog", "lineage": "Data Lineage", "quality": "Data Quality", "access": "Access Control", "classification": "Classification", "retention": "Retention" },
+  "compliance": { "title": "Compliance & Audit", "policies": "Policies", "controls": "Controls", "audits": "Audits", "training": "Training", "violations": "Violations", "regulatory": "Regulatory Reporting" },
+  "admin": { "title": "Administration", "users": "User Management", "roles": "Roles & Permissions", "system": "System Health", "auditLog": "Audit Log", "organization": "Organization", "workflow": "Workflows", "reference": "Reference Data", "notifications": "Notification Rules", "backup": "Backup & Recovery" }
+}
